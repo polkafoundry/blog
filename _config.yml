@@ -1,19 +1,6 @@
 ---
-title: Trada Tech
+title: Blog - Icetea Platform
 timezone: UTC
-collections:
-  bitcoin:
-    title: Bitcoin
-    output: true
-  posts:
-    title: Posts
-    output: true
-  teddy:
-    title: Teddy
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
@@ -31,7 +18,7 @@ defaults:
 lang: vi
 description: Hiểu đúng làm thực blockchain.
 baseurl: "/"
-url: https://trada.tech
+url: https://blog.icetea.io
 google_analytics: UA-8597504-5
 markdown: kramdown
 theme: minima
@@ -44,5 +31,5 @@ facebook:
 plugins:
 - jekyll-feed
 prose:
-  siteurl: 'http://trada.tech/'
+  siteurl: 'http://blog.icetea.io/'
   media: '_uploads'
