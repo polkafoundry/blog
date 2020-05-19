@@ -7,14 +7,14 @@ defaults:
     type: posts
   values:
     layout: post
-    image: "/assets/img/trada_cover.png"
+    image: "https://icetea.io/images/share/home.png"
     category: blog
     author: thi
 - scope:
     path: ''
     type: pages
   values:
-    image: "/assets/img/trada_cover.png"
+    image: "https://icetea.io/images/share/home.png"
 lang: vi
 description: Practical Blockchain for Real World Use Cases.
 baseurl: "/"
@@ -23,7 +23,7 @@ markdown: kramdown
 theme: minima
 show_excerpts: true
 author: Icetea Platform
-logo: "/assets/img/trada_cover.png"
+logo: "https://icetea.io/images/share/home.png"
 facebook:
   app_id: 2178421482485741
   publisher: https://facebook.com/tradatech
