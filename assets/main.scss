@@ -83,3 +83,9 @@ h1, h2, h3, h4 {
 		width: calc(65% - (30px / 2));
 	}
 }
+
+a[href^="//"]:after, 
+a[href^="http://"]:after, 
+a[href^="https://"]:after {
+  content: url("/assets/imag/external.svg");
+}
