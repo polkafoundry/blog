@@ -4,6 +4,7 @@ author: ron
 date: 2020-05-27 00:00:00 Z
 permalink: "/2020/05/27/vi-tri-doi-lam-san-pham-blockchain.html"
 layout: post
+excerpt: Một đội ngũ với các vai trò thế nào để đảm bảo sự thành công của một ứng dụng blockchain?
 ---
 
 Blockchain hứa hẹn sẽ thay đổi một loạt các ngành bằng cách tạo ra các mô hình kinh doanh, hệ sinh thái, cũng như quản trị và cấu trúc tổ chức mới mẻ và khác trước đây. Tuy nhiên, bản thân các yếu tố này phụ thuộc rất nhiều vào các thế mạnh của nhau, và sự thành công của một sản phẩm, ứng dụng dựa trên Blockchain hoàn toàn là kết quả từ hiệu suất của chúng.
