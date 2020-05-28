@@ -15,15 +15,15 @@ Trong bài viết này Icetea sẽ tập trung vào việc đưa ra cách thức
 
 Để xây dựng cả một đội đầy đủ các vai trò hiệu quả cho một dự án blockchain, người sáng lập phải đảm bảo đã xác định được các câu hỏi sau:
 
-Mô hình chung của dự án: Đội ngũ bạn đang xây dựng là startup xây dựng giải pháp hoặc mạng lưới kinh doanh mới bằng blockchain hay là một doanh nghiệp đã định hình từ lâu, giờ đang xác định sử dụng Blockchain trong một hoặc một số các quy trình doanh nghiệp?
+__Mô hình chung của dự án__: Đội ngũ bạn đang xây dựng là startup xây dựng giải pháp hoặc mạng lưới kinh doanh mới bằng blockchain hay là một doanh nghiệp đã định hình từ lâu, giờ đang xác định sử dụng Blockchain trong một hoặc một số các quy trình doanh nghiệp?
 
-Loại mạng lưới: Mạng lưới blockchain sẽ được dẫn dắt bởi liên minh các doanh nghiệp (Consortium-Based Business Network) hay bởi người sáng lập doanh nghiệp (Founder-Driven Business Network)?
+__Loại mạng lưới__: Mạng lưới blockchain sẽ được dẫn dắt bởi liên minh các doanh nghiệp (Consortium-Based Business Network) hay bởi người sáng lập doanh nghiệp (Founder-Driven Business Network)?
 
-Công nghệ: Mạng Blockchain sẽ sử dụng các công nghệ Blockchain sẵn có cho doanh nghiệp, hay người sáng lập sẽ tự xây dựng?
+__Công nghệ__: Mạng Blockchain sẽ sử dụng các công nghệ Blockchain sẵn có cho doanh nghiệp, hay người sáng lập sẽ tự xây dựng?
 
-Cơ sở hạ tầng mạng: Mạng sẽ sử dụng môi trường Cloud được cung cấp bởi các nhà cung cấp lớn hay sẽ xây dựng cơ sở hạ tầng riêng hoặc sử dụng hạ tầng on-premises?
+__Cơ sở hạ tầng mạng__: Mạng sẽ sử dụng môi trường Cloud được cung cấp bởi các nhà cung cấp lớn hay sẽ xây dựng cơ sở hạ tầng riêng hoặc sử dụng hạ tầng on-premises?
 
-Phạm vi: Bạn có yêu cầu và giới hạn MVP và MVE không?
+__Phạm vi__: Bạn có yêu cầu và giới hạn MVP và MVE không?
 
 Câu trả lời cho những câu hỏi này giúp bạn xác định các yêu cầu cho các hoạt động chính của mạng lưới; vai trò, trách nhiệm của các thành viên cùng kỹ năng tương ứng.
 
