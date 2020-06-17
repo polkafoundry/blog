@@ -2,7 +2,7 @@
 title: Doanh Nghiệp Với Blockchain: Cân Bằng Công Nghệ Và Lĩnh Vực Kinh Doanh
 author: Ron
 date: 2020-06-17 20:00:00 Z
-permalink: "/2020/05/27/vi-tri-doi-lam-san-pham-blockchain.html"
+permalink: "/2020/06/17/doanh-nghiep-voi-blockchain.html"
 layout: post
 excerpt: Mặc dù tính mở mang lại lợi ích đối với các blockchain tiền điện tử, các mô hình doanh nghiệp thì phải xem xét ý nghĩa và tác động của tính mở đối với doanh nghiệp của họ.
 ---
