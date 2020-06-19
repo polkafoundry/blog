@@ -6,6 +6,7 @@ permalink: "/2020/06/17/doanh-nghiep-voi-blockchain.html"
 layout: post
 excerpt: Mặc dù tính mở mang lại lợi ích đối với các blockchain tiền điện tử, các mô hình doanh nghiệp thì phải xem xét ý nghĩa và tác động của tính mở đối với doanh nghiệp của họ.
 ---
+
 **Tìm hiểu về 2 nhánh công nghệ quan trọng của Blockchain**
 
 Khi thảo luận về bối cảnh công nghệ và việc áp dụng công nghệ blockchain cho doanh nghiệp, trước hết, chúng ta cần rút ra sự khác biệt giữa blockchain cần cấp phép (permissioned blockchain hay con gọi là blockchain đóng) và blockchain không cần cấp phép (permissionless blockchain hay còn gọi là blockchain mở). Dù cho sự khác biệt giữa 2 dạng blockchain này không đơn giản, nhưng cả hai loại (và các biến thể của chúng) đều có một vài điểm chung:
